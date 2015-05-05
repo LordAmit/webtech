@@ -1,7 +1,7 @@
-Web Technology Course - Syllabus Overview
-=========================================
+Web Technology Course
+=====================
 
-Discussion on web technology course syllabus and contents for undergrad students in Software Engineering, Computer Science and other releavant disciplines - crowd source style!
+Discussion on web technology course offered to undergrad students in Software Engineering, Computer Science and other releavant disciplines - crowd source style! \*
 
 Foundation Topics
 -----------------
@@ -33,3 +33,5 @@ Advanced Topics
 	-	Dom manipulation
 	-	Ajax
 -	Server side scripting
+
+\* Note that this is less of a syllabus and more of a suggestion right now. Of course, anyone can use its contents to design their own web technology course syllabus.
